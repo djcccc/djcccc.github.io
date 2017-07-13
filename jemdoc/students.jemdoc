@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{students.html}
+# jemdoc: addcss{yongfu-li.github.io/jemdoc/jemdoc.css}
+# jemdoc: title{Yongfu Li's Homepage}
+# jemdoc: nofooter
+
+= Students
+I am very fortunate to work with faculty members to supervise/co-supervise students on various interesting projects.
+
+== Current Projects
+
+== Past Projects
+
+=== Development Project for GLOBALFOUNDRIES Interns
+==== 2016
+- Junjie Melvin Ong (B.Eng), "Dashboard Development for DFM Automated Verification System (DAVS)", January 2016 - July 2016.
+
+==== 2014
+- Akhila Krishna Mohan (M.Sc), "Infrasturcture Development of DFM Kit Verification System", June 2014 - Feburary 2015.
+
+=== Research Project for Master of Science (M.Sc) Degree
+
+==== 2013
+- Astha Gupta (Co-supervised with Professor Yong Lian), "Implementation of Time-to-Digital Converter in FPGA/ASIC and Measurement Recording", January – December 2013.
+- Akshe Gupta (Co-supervised with Professor Yong Lian), "Design of building blocks for multi-channel time based data converter", January – December 2013.
+- Nagarjun Rajendran (Co-supervised with Professor Yong Lian), "Asynchronous receiver based on radio events", January – December 2013.
+
+==== 2012
+- Murali Krishna Kaki (Co-supervised with Professor Yong Lian), "Algorithms for distortion reduction in Signal Generator", July 2012 – May 2013.
+
+==== 2011
+- Pradeep Kumar Chandrasekar (Co-supervised with Professor Yong Lian), "Study of the VCO based ADC and the investigation of VCO non Linearity at low supply voltages", January – December 2011.
+
+=== Final Year Project for Bachelor of Engineering (B.Eng) Degree
+
+==== 2016
+- Yu Shuen Goh (Co-supervised with Dr. Dingjuan Chua), "", July 2016 - May 2017
+
+==== 2015
+- Ying Hui Li (Co-supervised with Dr. Dingjuan Chua), "", July 2015 - May 2016
+
+==== 2013
+- Harsh Kumar, Yi Li, Wen Mei, Nalaka Buddika Warnakula, Qinhong Tay, Kok Keong Wong, Yue Zhao (Co-supervised with Dr. Sha Luo), "Picosatellite System Design – Galassia", July 2013 – May 2014.
+
+==== 2012
+- Cheng Yen Lam, Junwei Lin, Hanjie Wang (Co-supervised with Professor Yong Lian), "Development of Wireless Wearable Blood Pressure Sensor for Chronic Disease Management", July 2012 – May 2013.
+-- First Place Prize - IEEE R10 Undergraduate Student Paper Contests 2013
+-- Merit Award – NUS 27th Faculty Innovation & Research Awards
+- Wenlong Russell Sim (Co-supervised with Professor Yong Lian), "The development of wearable wireless biomedical sensors for telemedicine", July 2012 – May 2013.
+
